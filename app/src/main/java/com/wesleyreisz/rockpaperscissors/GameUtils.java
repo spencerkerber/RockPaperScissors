@@ -4,9 +4,11 @@ import android.content.res.ColorStateList;
 import android.graphics.Color;
 
 import com.wesleyreisz.rockpaperscissors.Game.GameType;
+import com.wesleyreisz.rockpaperscissors.Game.Lizard;
 import com.wesleyreisz.rockpaperscissors.Game.Paper;
 import com.wesleyreisz.rockpaperscissors.Game.Rock;
 import com.wesleyreisz.rockpaperscissors.Game.Scissors;
+import com.wesleyreisz.rockpaperscissors.Game.Spock;
 
 import java.util.Random;
 
